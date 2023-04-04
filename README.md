@@ -39,50 +39,9 @@ First of all download the code through below
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/HaardPatel6)
 
 
-## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://link-to-project
-```
-
-Go to the project directory
-
-```bash
-  cd my-project
-```
-
-Install dependencies
-
-```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  npm run start
-```
-
-
-## Deployment
-
-To deploy this project run
-
-```bash
-  npm run deploy
-```
-
-
 ## Demo
 
 https://haard7-sports-analytics-streamlit-basketball-2ftc2n.streamlit.app/
-
-
-## Documentation
-
-[Documentation](https://linktodocumentation)
 
 
 ## Tech Stack
@@ -97,10 +56,6 @@ https://haard7-sports-analytics-streamlit-basketball-2ftc2n.streamlit.app/
 **Deployment:** Streamlit
 
 
-
-# Sportan: Sports Performance Analysis
-### About
-Our project is dedicated to individual sports players, coaches and team sponsors to analyze and improve the performance of team
 
 
 
