@@ -58,21 +58,3 @@ https://haard7-sports-analytics-streamlit-basketball-2ftc2n.streamlit.app/
 
 
 
-
-### Intuition
-&rarr; Which team has highest winning percentage ? 
-
-&rarr; Which 11 player in cricket can make worlds strongest cricket team ?
-
-&rarr; How Moneyball concept can make a poor team a champion team ?
-
-&rarr; which location in basketball court has highest probability of converting the basket ?
-
-&rarr; What is the impact of salary on team 
-performance and vice-versa.
-
-&rarr; How wearables can help in collecting useful information for individual performance
-
-&rarr; Which team will win the tournament or race ?
-
-Answer is here in this project......
